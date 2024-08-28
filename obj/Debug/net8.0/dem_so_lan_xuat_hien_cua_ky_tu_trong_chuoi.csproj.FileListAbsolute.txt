@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\bin\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\bin\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\bin\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\bin\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\bin\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\refint\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi\obj\Debug\net8.0\ref\dem_so_lan_xuat_hien_cua_ky_tu_trong_chuoi.dll
